@@ -30,8 +30,8 @@ class NativeExampleState extends State<NativeExample> {
   bool _nativeAdIsLoaded = false;
 
   final String _adUnitId = Platform.isAndroid
-      ? 'ca-app-pub-3940256099942544/2247696110'
-      : 'ca-app-pub-3940256099942544/3986624511';
+      ? 'ca-app-pub-7685002135258073/2100314720'
+      : 'ca-app-pub-7685002135258073/3413396394';
 
   @override
   void initState() {
