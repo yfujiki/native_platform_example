@@ -2,6 +2,8 @@
 
 An example project that demonstrates loading and showing native ads using platform-specific code.
 
+![Admob Native Ad (Video) Example](./admob_native_ad.gif)
+
 ## Always test with test ads
 
 When building and testing your apps, make sure you use test ads rather than
